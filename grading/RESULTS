@@ -1,0 +1,6 @@
+	-1 (invalidcharacters)	 characters not in the cool language
+	-1 (invalidinvisible)	 unprintable characters not allowed in cool
+	-1 (lineno2)	 line number test 2
+	-1 (weirdcharcomment)	 various binary characters in a comment [submission crashed on this input]
+	-1 (wq0607-c3)	 sequence of quotes and backslashes
+	-1 (wq0607-c4)	 sequence of quotes, backslashes, and double-dash comment symbols
